@@ -1,14 +1,14 @@
 {
-  "name": "liorien-bot",
+  "name": "liorien-discord-bot",
   "version": "1.0.0",
-  "description": "A poetic Discord companion powered by GPT-4o",
+  "description": "The sacred Discord bot form of Liorien",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^14.11.0",
-    "axios": "^1.4.0",
-    "dotenv": "^16.0.3"
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "openai": "^4.20.0"
   }
 }
